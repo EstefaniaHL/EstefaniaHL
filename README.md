@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EstefaniaHL
-- 🌱 I’m currently learning Python at Inove Coding School
+- 🌱 I’m currently learning Django at Inove Coding School
 - 📫 How to reach me: mariaestefaniahernandez@gmail.com
 - 💕 I'm interesting in teaching English, running and music.
 
