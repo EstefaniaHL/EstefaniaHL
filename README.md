@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EstefaniaHL
 - 🌱 I’m currently learning Django at Inove Coding School and React Js at UTN.
 - 📫 How to reach me: mariaestefaniahernandez@gmail.com
-- 💕 I'm interesting in teaching English, running and music.
+- 💕 I'm interesting in teaching English, music and making clothes.
 
 
 <!---
